@@ -1,5 +1,5 @@
 # JHA Code Test - Simple Weather Forecast Service
-Demo Purpose Only - Not Meant be on Production
+Demo Purpose Only
 
 ## Requirements
 
