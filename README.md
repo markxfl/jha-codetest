@@ -10,9 +10,6 @@ Demo Purpose Only
 Install Go Runtime 1.23.2
 https://go.dev/dl/
 
-```bash
-$ export OW_API_KEY=<your_api_key_from_openweathermap>
-```
 Clone this project:
 ```bash
 $ git clone https://github.com/markxfl/jha-codetest.git
