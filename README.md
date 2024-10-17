@@ -10,6 +10,14 @@ Demo purpose only
 Install Go Runtime 1.23.2
 https://go.dev/dl/
 
+```bash
+$ export GOPATH=$HOME/go
+$ export GOROOT=/usr/local/go
+$ export GOBIN=$GOPATH/bin
+$ export PATH=$PATH:$GOPATH
+$ export PATH=$PATH:$GOROOT/bin
+```
+
 Clone this project:
 ```bash
 $ git clone https://github.com/markxfl/jha-codetest.git
